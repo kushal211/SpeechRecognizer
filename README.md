@@ -1,3 +1,5 @@
+![Markdown-SpeechRecognizer-banner-image](assets/banner.png)
+
 # SpeechRecognizer
 A SwiftUI-based iOS application that uses Apple’s Speech framework to perform real-time speech-to-text transcription. This app supports starting, pausing, resuming, and stopping speech recognition, with an optional auto-stop feature based on a configurable silence duration.
 
@@ -117,3 +119,15 @@ This project is licensed under the MIT License. See the LICENSE file for details
 This app leverages the following Apple frameworks:
 *	`Speech Framework`: For speech-to-text transcription.
 *	`AVFoundation`: For audio input and processing.
+
+---
+### Contact
+[Kushal Panchal][portray-url] 
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[portray-url]: https://www.portray.work/kushal
+[linkedin-url]: https://www.linkedin.com/in/kushal211
