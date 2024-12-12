@@ -29,7 +29,7 @@ git clone <repository-url>
 2. Open the project in Xcode:
 ```
 cd <project-folder>
-open SpeechRecognitionApp.xcodeproj
+open SpeechRecognizer.xcodeproj
 ```
 
 1. Build and run the project on a real iOS device or simulator (microphone access required).
